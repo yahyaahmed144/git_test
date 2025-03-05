@@ -1,2 +1,3 @@
 # git_test
-"Hello Odin!"
+"Hello Odin!
+"Odin is DEAD"
